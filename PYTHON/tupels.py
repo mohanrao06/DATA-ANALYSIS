@@ -140,3 +140,10 @@ a, *b, c = tup
 print(a) 
 print(b) 
 print(c)
+
+'''
+a gets the first item.
+c gets the last item.
+*b collects everything in between into a list.
+
+'''
